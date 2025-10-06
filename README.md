@@ -2,7 +2,7 @@
 
 ## Ressources
 
-- [Cours à récupérer ici](https://drive.google.com/file/d/1IHAQgiKIa9KyiT7RelnFI8EM1IPLP1wS/view?usp=drive_link)
+- [Cours à récupérer ici](https://drive.google.com/file/d/1IHAQgiKIa9KyiT7RelnFI8EM1IPLP1wS/view?usp=sharing)
 - [Demos](./demos/)
 - [Base de données à récupérer ici](https://drive.google.com/drive/folders/1oYML4pid7n58KYFHcT5M7v7oJCIBGyTX?usp=sharing)
 - [Exercices supplémentaires en complément des ateliers du cours](./exercices/)
