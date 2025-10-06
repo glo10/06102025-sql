@@ -1,8 +1,8 @@
-# Exercice 4 : AirBnB
+# Exercice 2 : AirBnB
 
 Vous avez été sollicité par plusieurs communes, notamment celle de Paris pour étudier l'impact des locations AirBnB sur l'immobilier locatif et le tourisme.
 
-Après avoir récupérez la base de données [AirBnB](../databases/airbnb/airbnb_postgre.sql) mise à votre disposition provenant de [Gor Abaghyan sur Kaggle](https://www.kaggle.com/datasets/abaghyangor/airbnb-paris?resource=download). Le comité des maires de la région Ile-de-France, vous demande de répondre aux questions suivantes :
+vous avez récupéré la base de données provenant de [Gor Abaghyan sur Kaggle](https://www.kaggle.com/datasets/abaghyangor/airbnb-paris?resource=download). Le comité des maires de la région Ile-de-France, vous demande de répondre aux questions suivantes :
 
 1. Listez tous les noms des hébergements et leur prix par nuit
 2. Affichez toutes les annonces avec au moins 3 chambres
