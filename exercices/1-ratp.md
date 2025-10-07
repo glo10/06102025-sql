@@ -67,3 +67,29 @@ Pour chaque réponse, vous devez stocker la requête SQL permettant de répondre
 8. Le trafic moyen à Gare du Nord sur les 5 dernières années.
 9. Le trafic moyen à Gare de Lyon sur les 5 dernières années.
 10. Le trafic moyen à Gare de l'Est sur les 5 dernières années.
+
+---
+
+## PARTIE IV : LDD
+
+1. Créez une nouvelle table 2025 ayant les mêmes colonnes que les tables précédentes 2021, 2020, etc.
+2. Ajoutez toutes les stations à partie de la table 2021 dans la table 2025 en utilisation la clause  `INSERT INTO SELECT FROM...`
+3. Ajoutez toutes les nouvelles stations depuis 2021 dans la table 2025, pour simplifier nous n'allons pas prendre en compte le trafic et les correspondances (connections)
+-  Nouvelles stations de la ligne 4
+    - Barbara
+    - Bagneux ‑ Lucie Aubrac
+- Nouvelles stations de ligne 12
+    - Aimé Césaire
+    - Mairie d’Aubervilliers
+- Nouvelles stations de la ligne 11
+    - Serge Gainsbourg
+    - Romainville‑Carnot
+    - Montreuil‑Hôpital
+    - La Dhuys, Coteaux Beauclair
+    - Rosny‑Bois‑Perrier 
+- Nouvelles station de la ligne 14
+    - Villejuif‑Gustave Roussy
+    - L’Haÿ‑les‑Roses
+    - Chevilly‑Larue
+    - Thiais‑Orly
+    - Aéroport Orly
