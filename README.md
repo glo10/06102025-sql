@@ -6,11 +6,15 @@
 - [Demos](./demos/)
 - [Base de données à récupérer ici](https://drive.google.com/drive/folders/1oYML4pid7n58KYFHcT5M7v7oJCIBGyTX?usp=sharing)
 - [Exercices supplémentaires en complément des ateliers du cours](./exercices/)
+- [Exercices RATP](./exercices/1-ratp.md)
 
 ## Corrections des ateliers
 
 - [Toutes les corrections des ateliers](./ateliers/corrections/)
-- [ Atelier 2.1](./ateliers/corrections/2.1/)
+- [Atelier 2.1](./ateliers/corrections/2.1/)
+- [Atelier 2.2](./ateliers/corrections/2.2/)
+- [Atelier 2.3](./ateliers/corrections/2.3/)
+- [Atelier 2.4](./ateliers/corrections/2.4/)
 
 ## Documentations
 
