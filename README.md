@@ -2,26 +2,23 @@
 
 ## Ressources
 
-- [Cours à récupérer ici](https://drive.google.com/file/d/1IHAQgiKIa9KyiT7RelnFI8EM1IPLP1wS/view?usp=sharing)
 - [Demos](./demos/)
-- [Base de données à récupérer ici](https://drive.google.com/drive/folders/1oYML4pid7n58KYFHcT5M7v7oJCIBGyTX?usp=sharing)
-- [Exercices supplémentaires en complément des ateliers du cours](./exercices/)
 - [Exercices RATP](./exercices/1-ratp.md)
-  - [Corrections exercices RATP](./exercices/corrections/ratp/)
+  - [Corrections RATP](./exercices/corrections/ratp/)
 
-## Corrections des ateliers
+<!-- ## Corrections des ateliers
 
 - [Toutes les corrections des ateliers](./ateliers/corrections/)
-- [Atelier 2.1](./ateliers/corrections/2.1/)
-- [Atelier 2.2](./ateliers/corrections/2.2/)
-- [Atelier 2.3](./ateliers/corrections/2.3/)
-- [Atelier 2.4](./ateliers/corrections/2.4/)
-- [Atelier 3.1](./ateliers/corrections/3.1/)
-- [Atelier 3.2](./ateliers/corrections/3.2/)
-- [Atelier 4](./ateliers/corrections/4/)
-- [Atelier 5](./ateliers/corrections/5/)
-- [Atelier 6](./ateliers/corrections/6/)
-- [Atelier 7](./ateliers/corrections/7/)
+  - [Atelier 2.1](./ateliers/corrections/2.1/)
+  - [Atelier 2.2](./ateliers/corrections/2.2/)
+  - [Atelier 2.3](./ateliers/corrections/2.3/)
+  - [Atelier 2.4](./ateliers/corrections/2.4/)
+  - [Atelier 3.1](./ateliers/corrections/3.1/)
+  - [Atelier 3.2](./ateliers/corrections/3.2/)
+  - [Atelier 4](./ateliers/corrections/4/)
+  - [Atelier 5](./ateliers/corrections/5/)
+  - [Atelier 6](./ateliers/corrections/6/)
+  - [Atelier 7](./ateliers/corrections/7/) -->
 
 ## Documentations
 
